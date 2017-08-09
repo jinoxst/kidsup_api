@@ -1,0 +1,9 @@
+{
+	"appenders":[
+		{
+			"type": "dateFile",
+			"filename": "logs/api.log",
+			"pattern": "-yyyy-MM-dd"
+		}
+	]
+}

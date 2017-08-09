@@ -1,0 +1,12 @@
+{
+	"PAGE_TITLE": "KidsUp",
+	"LOGO_TITLE": "KidsUp",
+	"FROM_STR":"KidsUp",
+	"MAIL_TITLE": "News from KidsUp",
+	"PW_REISSUE_MAIL_CONTENTS": "Dear %_NAME_%<br><br>Thank you! We appreciate your continouse using KidsUp Service.<br><br>There was a password reissue request from %_REQNAME_%.<br>It does not matter even if you ignore this mail without pressing the link below if the applicant is not the person in question.<br><br>When you press the link below the password will be initialized, Please note that changes to reflect the new ones.<br><br>The password can be reissued is up to %_EXPIREDATE_%.<br>This is an automatic reply e-mail.<br>If you wish to contact us, it will be fine if you can directly reply.",
+	"PW_REISSUE_LINK":"Password Reissue",
+	"MEMBER1_JOIN_COMPLETE_MAIL_CONTENTS":"%_CENTER_NAME_%様<br><br>Congratulation! We received your registration to KidsUp service, Thank you very much.<br><br>When you access to the following URL, KidsUp services are available immediately.<br><br>When access is not done, there may be notification from the KidsUp staff.<br><br>This is an automatic reply e-mail.<br>If you wish to contact us, it will be fine if you can directly reply.",
+	"SERVICE_START_LINK":"KidsUp service start",
+	"MEMBER1_REGIST_COMPLETE_TITLE":"Notice of KidsUp completion of registration"
+}
+
